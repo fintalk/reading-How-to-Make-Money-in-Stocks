@@ -1,11 +1,11 @@
 ## How to Read Charts Like a Pro and Improve Your Selection and Timing
-- misato
+
 ## Chart Reading Basics
-- natsuko
+
 ## History Repeats Itself: Learn to Use Historical Precedents
-- nobolis
+
 ## The Most Common Chart Pattern: “Cup with Handle”
-- shinseitaro
+
 ## Constructive Patterns Have Tight Price Areas
 
 ## Find Pivot Points and Watch “Volume Percent Change”
