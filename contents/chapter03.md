@@ -1,10 +1,14 @@
 ## C = Current Big or Accelerating Quarterly Earnings and Sales per Share
+- misato
 
 ## Buy Stocks Showing “Huge Current Earnings Increases”
+- natsuko
 
 ## Watch Out for Misleading Earnings Reports
+- nobolis
 
 ## Omit a Company’s One-Time Extraordinary Gains
+- shinseitaro 
 
 ## Set a Minimum Level for Current Earnings Increases
 
