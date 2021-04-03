@@ -85,16 +85,20 @@
   - 株価が上昇して引けた週のほうが、株価が下落して引けた週よりも多ければよい銘柄といえる
 
 ## A Few Normal-Size Cups with Handles
+- ほとんどチャート 97-100 : nobolis
 
 ## The Value of Market Corrections
-
+- 100 : nobolis
 ## Other Price Patterns to Look For
+- ほとんどチャート 101- : misato
 
 ## Detecting Faulty Price Patterns and Base Structures
-
+- 146-152: shinseitaro
 
 ## How to Use Relative Price Strength Correctly
+- 152P : misato
 
 ## What Is Overhead Supply?
-
+- 152-154 : natsuko 
 ## Excellent Opportunities in Unfamiliar, Newer Stocks
+- 154-156 : natsuko 
