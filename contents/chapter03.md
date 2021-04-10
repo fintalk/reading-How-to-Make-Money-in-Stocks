@@ -25,7 +25,13 @@
     - I prefer to concentrate on stocks that show powerful earnings gains of 40% to 500% or more.
 - また、**次期四半期にあたり期の前年決算を確認**すべき。季節性要因で大きな収益が上がっていないかどうかなど。
     - When the unusual year-earlier results are not caused by seasonal factors, this step may help you anticipate a strong or poor earnings report in the coming months.
+
 ## Avoid Big Older Companies with Maintainer Management
+- shinseitaro
+- アメリカもパットしない（mediocre）二流経営陣の運営する会社がおおいよ。
+    - many older American corporations have mediocre management that continually produces second-rate earnings results.
+- 今期（だけでも）EPSを8-10％あげようとする低水準会社はあるから騙されちゃだめ。
+    - they are generally the companies that strain to pump up their current earnings a still-dull 8% or 10%.
 
 ## Look for Accelerating Quarterly Earnings Growth
 
