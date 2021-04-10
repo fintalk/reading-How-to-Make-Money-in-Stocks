@@ -89,11 +89,58 @@
 
 ## The Value of Market Corrections
 - 100 : nobolis
+
 ## Other Price Patterns to Look For
-- ほとんどチャート 101- : misato
+### Saucer with Handleとは
+- Cup with Handleと似たような値段のパターン
+- ソーサーの部分が長い時間をかけて伸びる傾向があり、パターンが浅い
+
+### Double Bottom
+- 価格パターンは、"W "の文字のように見える
+- Cup with Handleほど頻繁には発生しないが、よくに発生する
+- 通常、Wの2番底が1番底の価格水準（安値）と一致するか、ほとんどの場合と同様に1～2ポイント明確にアンダーカットする
+- ダブルボトムのピボットは、2本目の足の下降後、株が上昇してきているWの右上にある
+- ピボットは、Wの中段のピークの上端と同じ価格で、パターンのピーク価格より少し下のどこかで止まるはず
+- ダブルボトムにハンドルがある場合は、ハンドルのピーク価格がピボット買いポイントを決定します
+- Double Bottomのサイン
+  - A＝底の始まり
+  - B＝第1足の底
+  - C＝買いポイントを設定するWの真ん中
+  - D＝第2足の底
+    
+![Deme-Petroleum-Weekly-Chart-p105](/image/chapter02-dome-petroleum.jpg)
+
+(出典: https://kingtrader.net/double-bottom-pattern-and-double-bottom-chart-in-stock-trading-and-30-examples-for-double-bottom-pattern.html)
+
+### Flat base
+- Cup with handle、saucer with handle、またはdouble bottomをオフに20％以上を進めた後に発生する第二段階のベース
+- 少なくとも5～6週間はかなり狭い価格帯で横にまっすぐ動き、10～15％以上の修正しない
+- ハンドル付きのカップからの株の最初のブレイクアウトを逃した場合、目時間が経てば、フラットベースを形成し、第二の機会をチャンスがあるかもしれない
+
+### Square Box
+- 4週間かかるだけで、7週間を超えることはない
+- 他のタイプのベースは、最低でも5、6、7週間を必要
+- 株式の修正率は15％以下となります。
+
+### Base on Top of a Base
+- ブルマーケットの後半で、一見ネガティブな状態が、新たなベアマーケットの新しいリーダーシップの可能性を示す。この異常なケースを "ベースの上にベース "と呼ぶ
+- 強力な株がベースを脱して前進し、一般市場が再び下降を開始したため、通常の20％から30％の上昇ができなくなる。そのため、一般市場の平均値が新たな安値を付け続けている間に、株は価格を引き下げ、前のベースの上に2度目の値固めエリアを作る
+- 市場全体の弱気局面が終了したとき、新高値になる傾向がある
 
 ## Detecting Faulty Price Patterns and Base Structures
 - 146-152: shinseitaro
+- （この章は他の有名はチャートパターンをディスってるだけなので、あまり意味はない。）
+- トライアングル、コイル、ペナントといった、チャート型はあてにならい。
+- 最も信頼性の高いベースパターンは、最低でも7～8週間の価格調整(もみ合い期間)が必要
+  - Our studies show that, with the exception of high, tight flags, which are extremely rare and hard to interpret, flat bases of five or six weeks, and the square box of four to seven weeks, the most reliable **base patterns must have a minimum of seven to eight weeks of price consolidation**. Most coils, triangles, and pennants are simply weak foundations without sufficient time or price correction to become proper bases. One-, two-, and three-week bases are risky. In almost all cases, they should be avoided.
+- ヘッドアンドショルダーのパターンも信頼性が高いが、私達の研究では強くない。A head-and-shoulders 形の解釈が難しい。
+  - **Triple bottoms and head-and-shoulders bottoms** are patterns that are widely mentioned in several books on technical analysis. We have found these to be weaker patterns as well. A head-and-shoulders bottom may succeed in a few instances, but it has no strong prior uptrend, which is essential for most powerful market leaders.
+- 紹介されているのと同時期のQCALのチャートをみたけど、正直良くわからない。
+![](https://tvc-invdn-com.akamaized.net/data/tvc_4adef77b1c225d11d059abb4c79de8a5.png)
+- トリプルボトムは、ダブルボトムに比べてパターンとして弱い。
+- 三回も急落する。ダブルボトムは二回、cup with handle は一度しか落ちない
+  - A triple bottom is a looser, weaker, and less-attractive base pattern than a double bottom. The reason is that the stock corrects and **falls back sharply to its absolute low three times** rather than twice, as with a double bottom, or **once, as in the strong cup with handle.** 
+
 
 ## How to Use Relative Price Strength Correctly
 - 多くのファンダメンタルズアナリストの間違った考え
@@ -104,9 +151,7 @@
   - ベースから抜けたときが買い時
   - その株価が急速に上昇、ベースから大きく伸び相対的な価格の強さが高くなったときが売りどき
 
-
 ## What Is Overhead Supply?
-- 152-154 : natsuko  
 - 「高値における株式供給の原理」とは？
   - 下降トレンドのあとに株価が上昇するとき、高値付近に強い抵抗を受ける（高値付近で株価が滞留する）ときのこと
   - 抵抗の原因となるのは、以前にその株価（現在の高値）付近で株を購入した投資家が、株を売りに出そうとするため
@@ -116,6 +161,9 @@
     - 大きな供給を吸収し、高値の抵抗線を超えるだけの需要があるため
 
 ## Excellent Opportunities in Unfamiliar, Newer Stocks
-- 154-156 : natsuko
-
-- 
+- 過去10年間に浮上してきたIPO（新規公開株）の中には、1〜2年以内に急成長を遂げる銘柄が出てくる
+- IPO株の中には、少し上昇したあとに弱気相場で新安値まで下落してしまう銘柄がある
+  - 次の強気相場で収益率と売り上げを伸ばしていれば、値を上げながらベースパターンを形成し、突如として急成長を始めて2倍3倍と値を上げる銘柄が出てくる
+  - 新興銘柄に起こる現象なので、投資家は急成長を見逃しがちになる
+  - 大量銘柄を扱うチャートサービスで新規参入銘柄をチェックしておくのが◎
+- 成長を遂げる若い銘柄は、起業から5〜10年間に収益率を最も急速に伸ばす傾向にある
