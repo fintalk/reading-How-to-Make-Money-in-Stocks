@@ -8,7 +8,9 @@
 - nobolis
 
 ## Omit a Company’s One-Time Extraordinary Gains
-- shinseitaro 
+- 一時的な利益（不動産売却など）が含まれている場合は差し引いて考える
+- 企業の継続性を表すものではない
+
 
 ## Set a Minimum Level for Current Earnings Increases
 
