@@ -23,7 +23,8 @@
     - To be even safer, insist that both of **the last two quarters** show significant earnings gains.
 - 筆者は、40％から500％以上は狙うそうです
     - I prefer to concentrate on stocks that show powerful earnings gains of 40% to 500% or more.
-
+- また、**次期四半期にあたり期の前年決算を確認**すべき。季節性要因で大きな収益が上がっていないかどうかなど。
+    - When the unusual year-earlier results are not caused by seasonal factors, this step may help you anticipate a strong or poor earnings report in the coming months.
 ## Avoid Big Older Companies with Maintainer Management
 
 ## Look for Accelerating Quarterly Earnings Growth
