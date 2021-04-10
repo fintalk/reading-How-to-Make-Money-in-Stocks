@@ -34,6 +34,11 @@
     - they are generally the companies that strain to pump up their current earnings a still-dull 8% or 10%.
 
 ## Look for Accelerating Quarterly Earnings Growth
+- shinseitaro
+- 大化けした銘柄のほとんどは、それ以前の10四半期のいずれかで、EPSの前期比が加速度的に成長している
+    - Our analysis of the most **successful stocks** also showed that, in almost every case, earnings **growth accelerated** sometime in the **10 quarters** before a towering price move began.
+- それまで収益が年率15％くらいの上昇だった会社が突然40-50％跳ねた場合、ウォールストリートでは"earning surprises"と呼んでいる
+    - If a company’s earnings have been up 15% a year and suddenly begin spurting 40% to 50% or more—what Wall Street usually calls **“earnings surprises”**
 
 ## Insist on Sales Growth as Well as Earnings Growth
 
