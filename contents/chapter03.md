@@ -3,6 +3,16 @@
 
 ## Buy Stocks Showing “Huge Current Earnings Increases”
 - natsuko
+- 過去の成長した銘柄を調査すると、3/4の銘柄が株価上昇を始める直前の当期四半期決算発表でESPが平均70％以上増加していることがわかる
+  - 当期四半期ではESP増加が報告されなかった企業でも、その次の四半期では平均90％の伸び率を示している
+  - 大化けする銘柄は、大きく値をあげる前に40〜400％のEPSの増加を示すので、EPSの低い銘柄に手を出す必要はない
+  - ナスダックなどに上場されている全銘柄のうち、40〜400％のEPS増加を示す銘柄はわずか2％ほどかもしれないが、調査する価値がある
+- EPSが上昇している銘柄を調査する際の注意点
+  - EPSは当期純利益を発行済み普通株式数で割ることで計算できる
+  - EPS上昇率が5〜10％では、株価を大きく上昇させる力はない
+    - EPSの上昇率が8~10％の企業では次の四半期でEPSを下げる可能性が高い
+- 銘柄選定の基準はEPSの上昇だけではないが、EPSは最も重要なファクターとなる
+
 
 ## Watch Out for Misleading Earnings Reports
 - nobolis
@@ -14,7 +24,7 @@
 
 
 ## Set a Minimum Level for Current Earnings Increases
-- shinseitaro 
+- shinseitaro
 - 直近の四半期のEPSが前年同期比18-20％くらいしか上昇していないなら買うな
     - against buying any stock that doesn't show earnings per share up at least 18% or 20% in the most recent quarter versus the same quarter the year before
 - 最低基準は25-30％上がった銘柄
