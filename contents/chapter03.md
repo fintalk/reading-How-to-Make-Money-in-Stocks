@@ -51,11 +51,16 @@
     - If a company’s earnings have been up 15% a year and suddenly begin spurting 40% to 50% or more—what Wall Street usually calls **“earnings surprises”**
 
 ## Insist on Sales Growth as Well as Earnings Growth
+- nobolis
 
 ## Two Quarters of Major Earnings Deceleration Can Be Trouble for Your Stock
+- shinseitaro
 
 ## Consult Log-Scale Weekly Graphs
+- natsuko
 
 ## Check Other Stocks in the Group
+- misato
 
 ## Where to Find Current Quarterly Earnings Reports
+- misato
