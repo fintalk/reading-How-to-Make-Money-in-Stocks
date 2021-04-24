@@ -1,5 +1,5 @@
 ## C = Current Big or Accelerating Quarterly Earnings and Sales per Share
-- misato
+- 前年同期と比較し、現在の四半期（直近の四半期）の1株当たり利益が大きく増加している銘柄を選択すること。
 
 ## Buy Stocks Showing “Huge Current Earnings Increases”
 - natsuko
@@ -60,7 +60,17 @@
 - natsuko
 
 ## Check Other Stocks in the Group
-- misato
+- 手持ちの株と同じグループの別の株の収益を確認すること。
+- グループ内で大きな収益をあげている銘柄を１つも見つけられない場合、あやまった銘柄に投資している可能性がある。
 
 ## Where to Find Current Quarterly Earnings Reports
-- misato
+- チャートサービスを利用し、週に報告された利益をチェックする。
+- 一度同じ前年同期と比較した場合の一株当たり利益の変化率を見つけ、四半期ごとにEPSの変化率を比較すること。
+- 3月四半期を見て、その後6月、9月、12月四半期で会社の収益成長が加速または減速しているかどうかをみる。
+
+銘柄選びの重要ルール:
+
+- 現在の1株当たりの四半期利益は、前年の同じ四半期よりも25％から50％の上昇でなければならない。
+- 優秀な企業は、100%から500%以上の収益を表示することがある**
+- 10％や12％では十分ではないく、重要なのはボトムライン。
+
