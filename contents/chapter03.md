@@ -61,6 +61,18 @@
 
 ## Insist on Sales Growth as Well as Earnings Growth
 - nobolis
+- 収益成長とともに売上成長を重視する
+- 堅調で改善している四半期利益はつねに直近四半期の売上高成長率が少なくとも25%以上であるか、あるいは少なくとも過去3四半期にわたって売上高改善率の改善ペースが加速していることに裏付けられていなければならない。
+- Certain superior newer issues (initial public offerings) may show sales growth averaging 100% or more in each of the prior 8, 10, or 12 quarters. Check all these stocks out.
+    - 一部の優れた新規案件（新規株式公開）では過去8四半期、10四半期、または12四半期のそれぞれにおいて、平均100%以上の売上増加が見られる場合もある。これらの株を全部調べなさい。
+- 売上と利益の両方の成長が過去3四半期に加速したかどうかに特に注意せよ。
+- この種の加速がみられたら、焦って株を売りたいとは思わないであろう。ポジションを維持せよ。
+- 企業はコストを削減したり、広告、研究開発、その他の建設的な活動への支出を削減したりすることで、数四半期にわたって利益を水増しできることができる。しかし、持続的に収益を伸ばすためには、売上高の増加が不可欠なのである。
+- 直近四半期の税引き後利益率が過去最高かそれに近い水準にあり、業界でも最高水準にあるという条件を株式選択の条件とすることもまた打率を向上させるであろう。
+- 投資成績を改善したいなら、少し宿題をしなければならない。苦労なくして得るものなし。
+    - TODO: ここでいう宿題とは？: Yes, you have to do a little homework if you want to really improve your results.
+
+
 
 ## Two Quarters of Major Earnings Deceleration Can Be Trouble for Your Stock
 - shinseitaro
