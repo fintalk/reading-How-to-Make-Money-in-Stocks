@@ -36,6 +36,9 @@
 
 ## Are PriceEarnings Ratios Really Important?
 - shinseitaro
+- PER（P/E）は株価を予想しない
+    - PER = 株価収益率、`現在株価 / ー株あたりの純利益であるEPS`
+- EPSの増加率の方が大切
 
 ## Why You Missed Some Fabulous Stocks!
 - misato
