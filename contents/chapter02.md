@@ -33,6 +33,6 @@
 
 ### How to Use Relative Price Strength Correctly
 
-### What Is Overhead Supply?
+## What Is Overhead Supply?
 
-### Excellent Opportunities in Unfamiliar, Newer Stocks
+## Excellent Opportunities in Unfamiliar, Newer Stocks
