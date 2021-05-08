@@ -28,6 +28,11 @@
 
 ## Insist on Both Annual and Current Quarterly Earnings Being Excellent
 - shinseitaro
+- 四半期だけじゃなく年単位の強い成長が必要
+- 過去三年間のEPSの成長をみるのが良い銘柄をさがす最速の方法
+- 他の上場企業と比べて、EPSの過去三年間の伸びが１％タイルに入っている銘柄を見つける
+- もし上場したての銘柄だった場合、収益の大きな伸び率と営業収入の大きな伸び率が直近５〜６ヶ月続いていることが目安
+
 
 ## Are PriceEarnings Ratios Really Important?
 - shinseitaro
