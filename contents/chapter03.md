@@ -75,6 +75,7 @@
 
 
 ## Two Quarters of Major Earnings Deceleration Can Be Trouble for Your Stock
+- shinseitaro
 - EPS増加の上昇率を確認すると同時に、失速してたり著しく減少していることにも注目する
 - 一時的に業績が振るわないことはあるが、２四半期連続でEPSの増加率が著しく減少したかどうか
 - 具体的には、前回の上昇率の1/3以下しか上昇していない場合は注意
