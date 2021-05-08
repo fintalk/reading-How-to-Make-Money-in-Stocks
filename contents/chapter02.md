@@ -1,3 +1,4 @@
+# CHAPTER 2
 ## How to Read Charts Like a Pro and Improve Your Selection and Timing
 - price and volume patterns found on stock charts. (価格と出来高の動きのパターンを株価チャートで見つけるべきだ)
 
@@ -8,9 +9,8 @@
     - correction（調整）とは、大きく株価があげた後、市場参加者がいくらなんでもこれは行き過ぎなのでは？との思惑から、一旦ポジションをクローズするなどの動きで売られて大きめに下げること。「調整」というのは、「間違いを調整する」という意味合い。実際、市場参加者が本当にそのように思うかどうかよりも、この局面はみんなそのように思うのではないか？という思惑の方が強く、その流れに乗らないといけないという心理的圧迫が生み出す現象とも言える。
 - Major advances occur off strong, recognizable price patterns.(大きな株価上昇は、明確に認識できる価格パターンの後に起きる)
     - このパタンがcup with handlesで、この後の章で説明が展開される。
-
-## History Repeats Itself: Learn to Use Historical Precedents
-
+ 
+### History Repeats Itself: Learn to Use Historical Precedents
 - 本書で示す勝つ株の選択システム（成長株発掘法）は、私や誰かの個人的見解や学術的理論ではなく、どのように実際に市場が動くのかに基づいている。
 - 過去の株の分析により、成長株は覚えやすい2語、CAN SLIMにまとめられる。
 - 繰り返し現れる成功する価格パターンとconsolidation pattern(強いパターン？邦訳本はもみ合いの構造）も発見した。
@@ -68,8 +68,7 @@
 - **ハンドル部分のピーク価格がほとんどの買いポイントを決定する。ほとんどの場合、ベースの高値よりもやや下にある。** ここ重要。実際の新高値を待っていると、手遅れになることが多い。時に、全体的なパターンの絶対的なピークから下向き下降トレンドラインを描くと、株式がハンドルを構築し始めるピークを横切りスタートを得ることができる。その後、数週間後にトレンドラインが上昇側に壊れたときに購入をはじめる。
 （★★★ここ日本語版でどうかかれているでしょうか★★★）
 
-## Look for Volume Dry-Ups Near the Lows of a Price Pattern
-
+### Look for Volume Dry-Ups Near the Lows of a Price Pattern
 - 適切にベースが形成された場合、底部分で約1~2週間、また取っ手部分の後半数週間の安値の時期に出来高が劇的に減少する
   - 株がすべて売り尽くされ、市場に新たに流入する株がほとんどないため(健全な銘柄である証ともいえる)
 - 見極めるポイント
@@ -87,7 +86,6 @@
 ## A Few Normal-Size Cups with Handles
 - テキサス・インスツルメンツ、アップル、ジェネラルケーブル、プレシジョンキャストパーツはすべて長さと深さが似た大きさのチャートである。アップルとプレシジョンキャストパーツの類似性がわかるだろうか？
 - さらなるスキルを身につければ、あなたは将来これらの過去の銘柄に似た多くのカップ・ウィズ・ハンドルの銘柄をスポット取引できるだろう（最終章に成功譚が記載されている）。
-
 
 ## The Value of Market Corrections
 - 80-90%の価格パターンは市場の調整期間に作られるので、中期的な売りまたは短期・長期の弱気相場の間に決してがっかりしたり、株式市場のポテンシャルを諦めてはいけない。
@@ -148,7 +146,6 @@
 - トリプルボトムは、ダブルボトムに比べてパターンとして弱い。
 - 三回も急落する。ダブルボトムは二回、cup with handle は一度しか落ちない
   - A triple bottom is a looser, weaker, and less-attractive base pattern than a double bottom. The reason is that the stock corrects and **falls back sharply to its absolute low three times** rather than twice, as with a double bottom, or **once, as in the strong cup with handle.** 
-
 
 ## How to Use Relative Price Strength Correctly
 - 多くのファンダメンタルズアナリストの間違った考え
