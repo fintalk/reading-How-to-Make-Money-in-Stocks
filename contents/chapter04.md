@@ -60,6 +60,12 @@
 
 ## The Wrong Way to Analyze Companies in an Industry
 - shinseitaro
+- 同業種内で、もっとも低いPERで取引されている銘柄が、最も魅力的（お買い得）な銘柄だと結論付けるのは間違ってる
+- PER=1株当たりの当期純利益（単に1株当たり利益、1株益ともいう）｣の何倍になっているかを示す指標
+- PERが低いのは、だいたい ghasty ((身の毛のよだつほど)恐ろしい) earnings record のせい
+- 画商のJoseph Duveen の例：
+  - レンブラントの絵を高くかって、ヘンリー・フォードに更に高い値段で売った。良いものを仕入れるのはカネがかかるのは当たり前。安物を買うのは簡単、でも安物は安物。良い値段では売れない。良いものを高く仕入れて、高く売れ、という教訓
+
 
 ## Examples of High PEs That Were Great Bargains
 - PER(株価収益率)が高くても株価が割安だった銘柄の例
