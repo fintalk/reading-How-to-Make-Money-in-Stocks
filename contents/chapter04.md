@@ -53,7 +53,11 @@
 - EPSの増加率の方が大切
 
 ## Why You Missed Some Fabulous Stocks!
-- misato
+- PE比率は収益を加速させる
+- 強気相場だとPEが高い
+- 弱気相場だと、循環型株式を除き、PEが低い
+- 強気市場ではPEが高すぎるらといって、その銘柄を見過ごさないように
+- PEの比率がバーゲンのように見えるからといって買ってはいけない
 
 ## How PriceEarnings Ratios Are Misused
 - nobolis
@@ -74,4 +78,6 @@
   - とくに、強気相場ではPERの水準を決めこんでいると損失を被ることになりかねない
 
 ## Don’t Sell High-PE Stocks Short
-- misato
+以下のような銘柄を買うこと
+- 過去3年間で売上高と利益が大幅に上昇している銘柄
+- 直近の四半期ごとの業績が好調で、株主資本利益率が高い銘柄
