@@ -1,7 +1,7 @@
 # 用語集
 
 ## cyclicals
-- 景気循環株
+- 景気循環株; シクリカル銘柄; シクリ株
 ## turnarounds
 - 企業再生株
 ## equity
