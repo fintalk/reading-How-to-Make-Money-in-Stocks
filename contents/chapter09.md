@@ -1,97 +1,214 @@
 (長すぎて、スペルミスとかあると思うので適当に書き換えてください)
 
 ## M = Market Direction: How You Can Determine It
+
 shinseitaro
-## What Is the General Market? 
+
+- Market Direrction （マーケット全体の方向性）を見誤ったらダメ
+- 今が
+  - bull market(強気相場) なのか
+  - bear market(弱気相場) なのか
+  - bull もしくは bear の early stage(初期段階) なのか later stage (終盤) なのか
+- さらに
+
+  - マーケットの環境が悪くて下げているのか
+  - normal intermediate decline なのか（長期的にみて、調整的に起こる、8-12％くらいの下げ）
+    見極める必要がある
+
+- マーケットの方向性を見る方法
+  - 主要な平均株価を３，４種類、日足で、株価と出来高を見る
+  - SP500, Nasdaq, DOW, [NYSE 総合指数](https://www.bloomberg.co.jp/quote/NYA:IND)
+  - IBD には、移動平均と「買い集め、売り抜け指数 (Accumulation/Distribution Rating ACC/DIS RTG)」を掲載している
+    - 買い集め、売り抜け指数：機関投資家による買い支え、売り抜けがわかる指数。らしい。
+- (くわしくは `Three Signs the First Rally Attempt May Fail` 章で解説されてるらしい)
+
+## What Is the General Market?
+
 misato
+
 ## Why Is Skilled, Careful Market Observation So Important?
+
 nobolis
+
 ## The Stages of a Stock Market Cycle
+
 natsuko
+
 ## You Should Study the General Market Indexes Each Day
+
 shinseitaro
+
+- In the bear markets, stocks usually open strong and close weak. In bull markets, they tend to open weak and close strong
+  - 弱気相場では株価は寄り付きで強く、引けで下落。強気相場はその逆。
+  - （これ、経験的にもよく見る傾向です ⇑）
+- マーケット全体が上がりきって踊り場の様子だったら、保有している株の一部を現金化して、信用取引を小さくすべし
+- この踊り場を見つけるために株価と出来高をチャートから読み取る分析が必要
+- (たぶん、それだけじゃムリで、債権利回りの動きも必須)
+
 ## The Prolonged Two-Year Bear Market of 1973-1974
+
 misato
+
 ## A 33% Drop Requires a 50% Rise to Break Even
+
 nobolis
+
 ## The Myths about "Long-Term Investing" and Being Fully Invested
+
 natsuko
-## Protecting Youself from Market Downturns 
+
+## Protecting Youself from Market Downturns
+
 shinseitaro
+
+- After you see the first several definite indications of a market top, don't wait around.
+- 市場が天井を打ったようにみえたら、躊躇せずに保有株を売る
+- 株式で保有している 25％以上をキャッシュにする
+- 弱気が始まった時は、打って現金化するか、空売りするしかない。
+- 空売りは専門的な技術。詳しくは 12 章で。
+- 弱気はだいたい 5-6 ヶ月続く
+
 ## Using Stop-Loss Orders
+
 misato
+
 ## How You Can Learn to Identify Stock Market Tops
+
 nobolis
+
 ## After the Initial Decline Off the Top, Track Each Really Attempt on the Way Down
+
 natsuko
+
 ## Three Signs the First Rally Attempt May Fail
+
 shinseitaro
+
+- 下落しえいる局面で、反発することがある。
+- 上昇しているように見えるけど**ダマシ**である可能性が高い 3 つのサインがある
+
+1. インデックスは３，４，５日目に上昇するが、出来高は前日より少ない状況
+1. インデックスの株価の上げ幅が前日よりすくない
+1. インデックスの株価が前につけた高値から直近の安値幅の半分も回復していない
+
+- ちなみに 2021/09/26 現在 NASDAQ が全部当てはまってますｗ
+  ![](../image/tvc_891611109e9b96990e9c05cbeef49dae.png)
+
 ## How CAN SLIM and IBD Read Flagged the March 2000 Nasdaq Top
+
 misato
+
 ## Spotting the 2007 Top in the Market
+
 nobolis
+
 ## Historical Tops for Futher Study
+
 natsuko
+
 ## Follow the Leasers for Clues to a Market Top
+
 shinseitaro
+
 ## Other Bear Market Warnings
+
 misato
+
 ## Don't Jump Back In Too Early
+
 nobolis
+
 ## how You Can Stop Stock Market Bottoms
+
 natsuko
+
 ## The Big Money Is Made in the First Tow Years
+
 shinseitaro
+
 ## Additional Ways to Identify Key Market Turning Points
+
 misato
+
 ### Look for Divergence of Key Average
+
 nobolis
+
 ### Certain Psychological Market Indeicators Might at Times Help
+
 natsuko
+
 ### Interpret the Overrated Advance-Decline Line
+
 shinseitaro
 
 ### Watch Federal Reserve Board Rate Changes
+
 misato
+
 #### The Fed Crushes the 1981 Economy
+
 nobolis
 
 #### The 2008 Financial Collapse
+
 natsuko
+
 #### The 1962 Stock Market Break
+
 shinseitaro
 
 ### The Hourly Market Index and Volume Changes
+
 misato
+
 ### Overbought and Oversold: Tow Risky Words
+
 nobolis
+
 ### Other General Market Indicators
+
 natsuko
+
 ## Part 1 Review: How to Remember and Use That You've Read So Far
+
 shinseitaro
 
+### C =
 
-### C = 
 misato
-### A = 
+
+### A =
+
 nobolis
-### N = 
+
+### N =
+
 natsuko
-### S = 
+
+### S =
+
 shinseitaro
 
-### L = 
+### L =
+
 misato
-### I = 
+
+### I =
+
 nobolis
-### M = 
+
+### M =
+
 natsuko
+
 ## Is CAN SLIM Momentum Investing?
+
 shinseitaro
 
 ## Experts, Education and Egos
+
 (最後長いので分けます)
 misato : The Created sophisticated ~ の段落まで
 noblis : Sometimes, listening to quoted and accepted ~ の段落まで
 natsuko : そのあと最後まで
-
