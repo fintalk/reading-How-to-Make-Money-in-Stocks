@@ -2,7 +2,7 @@
 - 株価の大きな上昇には必ず大きな買いのソース（＝大量に保有する株主）が必要
 - 株式市場に置いて、その役割は間違いなく機関投資家
 - 機関投資家の買いが、マーケットを動かす原動力
-    - These large investors account for the lion's share of each day's market activity. 
+    - These large investors account for the lion's share of each day's market activity.
     - the lion's share: (あるものの)大きな割当.
 
 ## What is Institutional Sponsorship?
@@ -22,10 +22,18 @@
 ## Buy Companies That Show Increasing Sponsorship
 ## Note New Stock Positions Bought in the Last Quarter
 - natsuko
+- 機関投資家の何社が保有しているかよりも、優秀な機関投資家が直近で購入したものかどうかを知るのが重要
+- 主力企業の株式売買の7割程度が機関投資家による売買
+- 上手に運用されている投資信託の投資戦略を学ぶことで市場で成功する手法がわかる
+- 成長株を探し、その銘柄のファンドの目論見書からファンドの投資哲学や使用している投資手法、及び購入銘柄の種類やその成績を知ることができる
+- ファンドの運用例
+  - 銘柄にまつわる最新情報のすべてを即座に仕入れるため、国内・海外の投資銘柄を調査している
+  - 投資対象銘柄を20銘柄に絞って投資するためファンド成績が上下しやすいが、過去に好成績だった主力業種を中心に銘柄を選択する
+  - 30以下の成長株に絞ったポートフォリオを運用
 
 ## Is Your Stock "Overowned" by Institutions?
 機関投資家によって「過剰」に保有されていないか？
-- nobolis 
+- nobolis
 - 機関投資家が株を保有しすぎるということも起こり得る。
 - Overowned（過剰保有）という表現は機関投資家の所有が過剰になった株を記述するために1969年に我々が使い始めた。
 - もし企業がなにか誤った方向に進んだときや弱気相場になったときに大きな売りがでる危険性をOverownedは持っている。
@@ -34,7 +42,7 @@
 - ある会社の株のパフォーマンスが強いことが明らかで全ての機関が株を所有するころには、株価はおそら天井を打っている。
 - 1000以上の機関による過剰保有は、弱気市場における大量売却のポテンシャルを持っている。多くの機関投資家は主導株の株価が上昇しているときに保有を増やし、下落が始まったら大量に売るであろう。
 
-## An Unassailable Institutional Growth Stock Tops 
+## An Unassailable Institutional Growth Stock Tops
 - 経営上の問題、景気の低迷、市場の方向性の変化などに永遠に無縁な企業はない。
 - 1974年6月、ゼロックスの株価は頂点から下降した。
 - エンロンは2000年11月29日72.91ドル、半年後に45ドル、その6ヶ月後には5ドル以下になって倒産に向かった。
