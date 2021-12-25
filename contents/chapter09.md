@@ -184,6 +184,17 @@ natsuko
 #### The 1962 Stock Market Break
 
 shinseitaro
+- 1962年の暴落
+  - [May 28th - This Day in Stock Market History - Begin To Invest](https://www.begintoinvest.com/may-28/)
+  - [Kennedy Slide of 1962 - Wikipedia](https://en.wikipedia.org/wiki/Kennedy_Slide_of_1962)
+  - ![](https://i0.wp.com/www.begintoinvest.com/wp-content/uploads/2018/05/NYT_coverage_of_stock_decline__5-28-2.png)
+  - 鉄鋼業界が鉄鋼価格を6ドル/1トンの引き上げを行おうとしたので、JFKが4月に業界の調査に入ったのをきっかけに一気に不安定な状況にはいり、1962/5/28(月)に暴落
+  - この間SPは22.5％下落
+  - ただ、同年10月にキューバ危機が落ち着く方向にいくと、マーケットも落ち着き強気相場に突入
+  - ![](https://i.imgur.com/gsml9YP.jpg)
+  - この間公定歩合の変更なし。実際に引き下げがあったのは、強気相場に入った半年後だったので、これを待ってから相場に入るのではおそすぎた。
+  - また公定歩合が引き下がったあとに数ヶ月株価が下落したこともあった。（2000年、2001年）
+
 
 ### The Hourly Market Index and Volume Changes
 
