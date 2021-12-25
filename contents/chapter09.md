@@ -211,8 +211,14 @@ natsuko
 ## Part 1 Review: How to Remember and Use That You've Read So Far
 
 shinseitaro
+- 第一部まとめ
+- CAN SLIM を暗記して実践しよう！
 
-### C =
+### C = Current Quarterly Earnings
+- 当期四半期EPSと売上
+- 前期比EPSが、少なくとも18-20％、できれば40-100％以上、上昇していることが望ましい
+- 四半期のどこかで「加速度的」に伸びているのが必須
+- 売上は前期比25％以上の上昇が必要
 
 misato
 
@@ -228,7 +234,11 @@ natsuko
 
 shinseitaro
 
-### L =
+### L = Leader or Laggard
+- 主導銘柄か？停滞銘柄か？
+- 主導銘柄を買って停滞銘柄を避けること
+- 特定分野、特定地域で首位を行く銘柄を買うこと
+- Relative Price Strength 指数が80-90％以上であること
 
 misato
 
@@ -243,6 +253,15 @@ natsuko
 ## Is CAN SLIM Momentum Investing?
 
 shinseitaro
+- CAN SLIM 投資はモメンタム投資か？
+- そもそも、「モメンタム投資」の意味が筆者にはわからない。他のアナリストがCAN SLIMを勝手にそうよんでいるだけ。
+- 我々の手法は
+  - 強いファンダメンタルを持つ企業（独自製品、新サービス）
+  - それでもたらされた大きな売上と増益
+  - 適切の形成されたベース期間を抜け出して強気相場に入った正しいタイミングで買う
+  - 弱気相場の初期段階で手仕舞い現金化
+- 我々は歴史学者だ。マーケットがどのように働いているのかを研究し、現実的な投資を行おう。
+
 
 ## Experts, Education and Egos
 
