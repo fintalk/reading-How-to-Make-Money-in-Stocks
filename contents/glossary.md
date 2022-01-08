@@ -8,3 +8,9 @@
 - 財務上の概念としての株
 ## stock
 - 取引する対象、権利としての株
+
+## market top 
+- 市場の天井
+
+## IBD
+Investor's Business Dailyの略
