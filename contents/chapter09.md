@@ -1,10 +1,33 @@
 (長すぎて、スペルミスとかあると思うので適当に書き換えてください)
 
 ## M = Market Direction: How You Can Determine It
+
 shinseitaro
-## What Is the General Market? 
+
+- Market Direrction （マーケット全体の方向性）を見誤ったらダメ
+- 今が
+  - bull market(強気相場) なのか
+  - bear market(弱気相場) なのか
+  - bull もしくは bear の early stage(初期段階) なのか later stage (終盤) なのか
+- さらに
+
+  - マーケットの環境が悪くて下げているのか
+  - normal intermediate decline なのか（長期的にみて、調整的に起こる、8-12％くらいの下げ）
+    見極める必要がある
+
+- マーケットの方向性を見る方法
+  - 主要な平均株価を３，４種類、日足で、株価と出来高を見る
+  - SP500, Nasdaq, DOW, [NYSE 総合指数](https://www.bloomberg.co.jp/quote/NYA:IND)
+  - IBD には、移動平均と「買い集め、売り抜け指数 (Accumulation/Distribution Rating ACC/DIS RTG)」を掲載している
+    - 買い集め、売り抜け指数：機関投資家による買い支え、売り抜けがわかる指数。らしい。
+- (くわしくは `Three Signs the First Rally Attempt May Fail` 章で解説されてるらしい)
+
+## What Is the General Market?
+
 misato
+
 ## Why Is Skilled, Careful Market Observation So Important?
+
 nobolis
 なぜ熟練した注意深い市場の観測がそんなに重要なのか？
 - 市場について学びたければ主要な指標を注意深く観察し、学ばねばならない。そうすることにより、市場の日平均が鍵となるターニングポイント、たとえば主要な市場の天井と底など、で変化したとき気がつけるようになり、真の知識と自身を持って資金を活用することを学べるだろう。
@@ -12,12 +35,36 @@ nobolis
 - 市場が頂点に達したか、底を打ったかを見極めることは、複雑な投資ゲーム全体の50％に相当する。また、アマチュア、プロを問わず、ほとんどすべての投資家が欠いていると思われる重要な投資スキルでもある。実際、ウォール街のアナリストは2000年の市場の天井、特にハイテク銘柄のリーダーたちの天井を完全に見落としていた。2008年も同様であった。
 
 ## The Stages of a Stock Market Cycle
+
 natsuko
+相場サイクルの各段階
+- 弱気相場の終わりは、株式は将来の経済事情・政治局面・世界での出来事を数ヶ月前から予測して動いているため、通常景気がまだ下向きの時にやってくる
+- アメリカの主要な経済指標の中でも株式市場は常に他の指標を先導して経済を牽引する
+- 強気市場は通常、不景気が始まる前に天井を打って下向きに転じる
+  - 景気を反映する経済指標を見て株の売買時期を判断するのは遅すぎる
+- 相場サイクルの各段階において、各業界がどのような順番で動くかを過去のサイクルから学ぶ
+  - 今が相場サイクルのどの段階にいるのかを判断する材料になる
+  - 経済が初期回復期に入った段階では、鉄道機器や機械、及びその他の資本財産業にいる企業群は景気循環や株式の相場サイクルより遅れた動きをする
+  - 2000年初めも、資本財であるインターネットとインフラを提供していたコンピュータ関連産業や情報通信機器の提供者が、当時の相場サイクルの最終段階で遅れて動き始めた
+- 平均株価チャートの中には、過去12ヶ月の主要な社会事件も合わせて掲載しているのものもあるので、それを毎年集めてあとから見返すことで、平均株価と同時にマーケットの方向に影響を与えた出来事が一眼でわかる
+
 ## You Should Study the General Market Indexes Each Day
+
 shinseitaro
+
+- In the bear markets, stocks usually open strong and close weak. In bull markets, they tend to open weak and close strong
+  - 弱気相場では株価は寄り付きで強く、引けで下落。強気相場はその逆。
+  - （これ、経験的にもよく見る傾向です ⇑）
+- マーケット全体が上がりきって踊り場の様子だったら、保有している株の一部を現金化して、信用取引を小さくすべし
+- この踊り場を見つけるために株価と出来高をチャートから読み取る分析が必要
+- (たぶん、それだけじゃムリで、債権利回りの動きも必須)
+
 ## The Prolonged Two-Year Bear Market of 1973-1974
+
 misato
+
 ## A 33% Drop Requires a 50% Rise to Break Even
+
 nobolis
 33%の下落は50%の上昇でようやく取り戻せる
 - 市場の方向の変化を知ることの重要性はどんなに強調してもしすぎることはない。
@@ -26,25 +73,65 @@ nobolis
 - 難しい弱気相場で利益を減らすのではなく、強気相場で積み上げた利益をできるだけ維持するように行動しなければならない。そのためには、歴史的に証明された株や市場全体の売りのルールを学ばなければならない（詳細な売りルールについては10章、11章を参照のこと）。
 
 ## The Myths about "Long-Term Investing" and Being Fully Invested
+
 natsuko
-## Protecting Youself from Market Downturns 
+「長期」投資と「満玉」投資に潜む危険
+
+- 「長期投資家」や機関投資家の投資術は、全資金を不況好況に関わらず市場に投入すること
+  - このような柔軟性のない投資法は、比較的緩やかな弱気相場（25％にも満たない下落率）なら耐えられるが、弱気相場の多くはより大きな下落になる
+-  これから弱気相場が始まりそうな時期、経済状況がどれだけ悪化するか、またその悪化だどれだけ長引くのかを予測するのは困難
+  - 1969〜1970年の弱気相場の場合、ベトナム戦争やインフレ、貨幣供給の引き締めなどが36.9%もの下落の引き金となった
+  - それ以前の弱気相場の継続期間は平均すると9ヶ月ほどで、下落率も平均26％で済んでいた
+- 弱気相場ではほとんどの銘柄が値を下げるが、その全てが以前の株価まで回復できるわけではない
+  - どれほど緩やかな弱気相場でも、株を保有し続けていれば不良株を売る絶好の機会を逃す可能性がある
+  - 経済状態が全体的に変化の兆しを見せ始めて手持ちの銘柄が不調であると感じたら、保有株をある程度は売却して資産を現金化するのは必須
+
+## Protecting Youself from Market Downturns
+
 shinseitaro
+
+- After you see the first several definite indications of a market top, don't wait around.
+- 市場が天井を打ったようにみえたら、躊躇せずに保有株を売る
+- 株式で保有している 25％以上をキャッシュにする
+- 弱気が始まった時は、打って現金化するか、空売りするしかない。
+- 空売りは専門的な技術。詳しくは 12 章で。
+- 弱気はだいたい 5-6 ヶ月続く
+
 ## Using Stop-Loss Orders
+
 misato
+
 ## How You Can Learn to Identify Stock Market Tops
+
 nobolis
 株式市場の天井を見極めるための方法
 - 市場の天井を見極めるためには、日々のS&P500、NYSE総合株価指数、ダウ30、ナスダック総合株価指数の上昇を注視することだ。上昇トレンドのある日、市場全体の出来高は前日から増加するが、指数自体は失速の動きを示す (前日の大幅な値上げに比べて、当日の大幅な値上げ幅は小さい) 。私はこれを「さらなる株価の値上げを伴わない高い出来高」と呼ぶ。平均株価はその日のうちに下落する必要はないが、ほとんどの場合は下落し、プロの投資家が株を処分することによって生じる分布 (売り) が見えやすくなる。株価平均の日高値と日安値の差は、場合によっては、前日よりも若干大きくなることがある。
 - 天井付近で起こる大量の売りは4－5週間かけて3-6日起こる。言い換えると、価格の上昇中にこの売りは起こるのだ。4－5週間の間に4－5日の売りがあったあと、通常の市場は下降に転じるはずだ。
 
-
 ## After the Initial Decline Off the Top, Track Each Really Attempt on the Way Down
+
 natsuko
+
 ## Three Signs the First Rally Attempt May Fail
+
 shinseitaro
+
+- 下落しえいる局面で、反発することがある。
+- 上昇しているように見えるけど**ダマシ**である可能性が高い 3 つのサインがある
+
+1. インデックスは３，４，５日目に上昇するが、出来高は前日より少ない状況
+1. インデックスの株価の上げ幅が前日よりすくない
+1. インデックスの株価が前につけた高値から直近の安値幅の半分も回復していない
+
+- ちなみに 2021/09/26 現在 NASDAQ が全部当てはまってますｗ
+  ![](../image/tvc_891611109e9b96990e9c05cbeef49dae.png)
+
 ## How CAN SLIM and IBD Read Flagged the March 2000 Nasdaq Top
+
 misato
+
 ## Spotting the 2007 Top in the Market
+
 nobolis
 2007年の市場の天井の特定
 - インベスターズビジネスデイリーのコラム「The Big Picture」内の「Market Pulse」のコーナーで、平均株価が5回のプロの投資家による大量の売り日（プロの投資家が株を処分する事によって生じる分布が見えた日）を迎え、市場の見通しが調整に切り替わったことを明確に指摘した上で、現金に変える時期であることを示唆していた。
@@ -52,12 +139,29 @@ nobolis
 - 市場において偶然に起こることなどめったにない。市場の天井を見極めるために必要な知識を学ぶ努力は必要である。生き残り、勝ち抜きたいのであれば、214ページからの注釈付きチャート（1976～2007年）を勉強してほしい。
 
 ## Historical Tops for Futher Study
+
 natsuko
+
 ## Follow the Leasers for Clues to a Market Top
+
+
 shinseitaro
+
+- 主導株から、マーケット全体の天井を見極める
+  - よくある主導株の変な挙動。これらが起きた場合は、マーケット全体に注意する
+  1. 主導株が、３，４回目のベースを抜けたあと、値動きがワイドになったり、上昇が弱まったりして、ベースがキチンと形成されない場合。その場合は日足や週足の "faulty base" (wide, loose, erratic) が起きていないか確認する
+  1. "climax top" の形成も危ない。（詳しくはChapter11）
+  1. 出来高が急増しているのに高値ブレイクできない場合
+  1. 出足が遅く、安値で低品質の停滞株（laggerds）が値上がりしてくるような場合も注意
+  1. 下降トレンドに入る初期段階に、いくつかの主導株のみ下降トレンドに逆らうかのように上昇しようとすることがある。
+ - マーケットの方向転換は、最終警告。 強気相場で天井をつけるタイミングは、主導株などの買いポイントの５〜７ヶ月後に起きがち。１０章１１章で学んだ方法でピークまえに売り抜けよう
+
 ## Other Bear Market Warnings
+
 misato
+
 ## Don't Jump Back In Too Early
+
 nobolis
 早すぎる復帰は禁物
 -1962～2008年の弱気相場の初期の兆候を見つけるという点については大した問題はなかったが、早すぎる買い戻しというミスは何度かした。
@@ -67,12 +171,27 @@ nobolis
 - 多くの機関投資家は「底値買い」を好む。彼らは底値と思われる銘柄から買い始め、株価上昇に説得力を持たせて、投資家を惹きつける。しかし、真に新たな強気相場が始まるまでは、現金を持って傍観していた方が良い。
 
 ## how You Can Stop Stock Market Bottoms
+
 natsuko
+
 ## The Big Money Is Made in the First Tow Years
+
+
 shinseitaro
+- 大きく儲けるチャンスは、新しい強気相場が始まって最初の１〜２年
+- そのあとは平均株価が上下し始めて、弱気相場が始まる
+- 弱気相場の始まりの特徴
+  - 弱気相場の最初の１，２年は、平均株価に中期的な下落（８〜１５％）が数回起きる＝調整局面
+  - 平均株価が伸び悩んでいるのに出来高が増えるようになると弱気相場の始まり
+
+
+
 ## Additional Ways to Identify Key Market Turning Points
+
 misato
+
 ### Look for Divergence of Key Average
+
 nobolis
 カギとなる平均値の乖離に着目する
 - 市場の転換点においては、重要な乖離がないか、つまり、（上げと下げのような）異なる方向に動いていないか、ある指標が他のものに対して大きく上昇・下降していないか、複数の平均値を確認すべきでさる。
@@ -82,54 +201,122 @@ nobolis
 - 機関投資家は定期的に30銘柄のダウを買い増し上昇させながら、ダウの上昇を隠れ蓑にして、より広範なナスダック銘柄やテクノロジー銘柄の株を清算する（大量売りする）。
 
 ### Certain Psychological Market Indeicators Might at Times Help
+
 natsuko
+
 ### Interpret the Overrated Advance-Decline Line
+
 shinseitaro
+- Advance-Decline Line (騰落レシオ)は過大評価されている
+  - 騰落レシオ（％）＝値上がり銘柄数÷値下がり銘柄数×100
+  - 大きい銘柄も小さい銘柄も、同じ１つの銘柄として扱っているところが問題
+- よくあるだまし
+  - 停滞株だけ力尽きて、主導株がマーケットを牽引している時
+  - 実際の天井よりもずっと早くに騰落レシオが下降し始める
+- 役に立つとき
+  - 明確に弱気相場の時に起きる、短期的な上昇の試みが起きた時
+  
 
 ### Watch Federal Reserve Board Rate Changes
+
 misato
+
 #### The Fed Crushes the 1981 Economy
+
 nobolis
 FRBが1981年の経済を崩壊させた
 - 
 
 
 #### The 2008 Financial Collapse
+
 natsuko
+
 #### The 1962 Stock Market Break
+
 shinseitaro
+- 1962年の暴落
+  - [May 28th - This Day in Stock Market History - Begin To Invest](https://www.begintoinvest.com/may-28/)
+  - [Kennedy Slide of 1962 - Wikipedia](https://en.wikipedia.org/wiki/Kennedy_Slide_of_1962)
+  - ![](https://i0.wp.com/www.begintoinvest.com/wp-content/uploads/2018/05/NYT_coverage_of_stock_decline__5-28-2.png)
+  - 鉄鋼業界が鉄鋼価格を6ドル/1トンの引き上げを行おうとしたので、JFKが4月に業界の調査に入ったのをきっかけに一気に不安定な状況にはいり、1962/5/28(月)に暴落
+  - この間SPは22.5％下落
+  - ただ、同年10月にキューバ危機が落ち着く方向にいくと、マーケットも落ち着き強気相場に突入
+  - ![](https://i.imgur.com/gsml9YP.jpg)
+  - この間公定歩合の変更なし。実際に引き下げがあったのは、強気相場に入った半年後だったので、これを待ってから相場に入るのではおそすぎた。
+  - また公定歩合が引き下がったあとに数ヶ月株価が下落したこともあった。（2000年、2001年）
+
 
 ### The Hourly Market Index and Volume Changes
+
 misato
+
 ### Overbought and Oversold: Tow Risky Words
+
 nobolis
+
 ### Other General Market Indicators
+
 natsuko
+
 ## Part 1 Review: How to Remember and Use That You've Read So Far
+
+shinseitaro
+- 第一部まとめ
+- CAN SLIM を暗記して実践しよう！
+
+### C = Current Quarterly Earnings
+- 当期四半期EPSと売上
+- 前期比EPSが、少なくとも18-20％、できれば40-100％以上、上昇していることが望ましい
+- 四半期のどこかで「加速度的」に伸びているのが必須
+- 売上は前期比25％以上の上昇が必要
+
+misato
+
+### A =
+
+nobolis
+
+### N =
+
+natsuko
+
+### S =
+
 shinseitaro
 
+### L = Leader or Laggard
+- 主導銘柄か？停滞銘柄か？
+- 主導銘柄を買って停滞銘柄を避けること
+- 特定分野、特定地域で首位を行く銘柄を買うこと
+- Relative Price Strength 指数が80-90％以上であること
 
-### C = 
 misato
-### A = 
-nobolis
-### N = 
-natsuko
-### S = 
-shinseitaro
 
-### L = 
-misato
-### I = 
+### I =
+
 nobolis
-### M = 
+
+### M =
+
 natsuko
+
 ## Is CAN SLIM Momentum Investing?
+
 shinseitaro
+- CAN SLIM 投資はモメンタム投資か？
+- そもそも、「モメンタム投資」の意味が筆者にはわからない。他のアナリストがCAN SLIMを勝手にそうよんでいるだけ。
+- 我々の手法は
+  - 強いファンダメンタルを持つ企業（独自製品、新サービス）
+  - それでもたらされた大きな売上と増益
+  - 適切の形成されたベース期間を抜け出して強気相場に入った正しいタイミングで買う
+  - 弱気相場の初期段階で手仕舞い現金化
+- 我々は歴史学者だ。マーケットがどのように働いているのかを研究し、現実的な投資を行おう。
+
 
 ## Experts, Education and Egos
+
 (最後長いので分けます)
 misato : The Created sophisticated ~ の段落まで
 noblis : Sometimes, listening to quoted and accepted ~ の段落まで
 natsuko : そのあと最後まで
-
