@@ -14,3 +14,7 @@
 
 ## IBD
 Investor's Business Dailyの略
+
+## ROE
+- return of equity
+- 自己資本利益率
