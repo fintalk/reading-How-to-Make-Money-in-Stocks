@@ -138,14 +138,9 @@
 - （この章は他の有名はチャートパターンをディスってるだけなので、あまり意味はない。）
 - トライアングル、コイル、ペナントといった、チャート型はあてにならい。
 - 最も信頼性の高いベースパターンは、最低でも7～8週間の価格調整(もみ合い期間)が必要
-  - Our studies show that, with the exception of high, tight flags, which are extremely rare and hard to interpret, flat bases of five or six weeks, and the square box of four to seven weeks, the most reliable **base patterns must have a minimum of seven to eight weeks of price consolidation**. Most coils, triangles, and pennants are simply weak foundations without sufficient time or price correction to become proper bases. One-, two-, and three-week bases are risky. In almost all cases, they should be avoided.
 - ヘッドアンドショルダーのパターンも信頼性が高いが、私達の研究では強くない。A head-and-shoulders 形の解釈が難しい。
-  - **Triple bottoms and head-and-shoulders bottoms** are patterns that are widely mentioned in several books on technical analysis. We have found these to be weaker patterns as well. A head-and-shoulders bottom may succeed in a few instances, but it has no strong prior uptrend, which is essential for most powerful market leaders.
-- 紹介されているのと同時期のQCALのチャートをみたけど、正直良くわからない。
- ![](https://tvc-invdn-com.akamaized.net/data/tvc_4adef77b1c225d11d059abb4c79de8a5.png)
 - トリプルボトムは、ダブルボトムに比べてパターンとして弱い。
 - 三回も急落する。ダブルボトムは二回、cup with handle は一度しか落ちない
-  - A triple bottom is a looser, weaker, and less-attractive base pattern than a double bottom. The reason is that the stock corrects and **falls back sharply to its absolute low three times** rather than twice, as with a double bottom, or **once, as in the strong cup with handle.** 
 
 ## How to Use Relative Price Strength Correctly
 - 多くのファンダメンタルズアナリストの間違った考え
